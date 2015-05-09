@@ -1,4 +1,4 @@
-Facts = [
+FACTS = [
   '$NAME is, when angry, over 40 metres tall.',
   '$NAME has quite an impressive collection of assorted cutlery, ranging back to the early Stuart period.',
   'No bully has ever mananged to quite get to $NAME.',

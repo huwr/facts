@@ -13,14 +13,12 @@ class FactApp < Sinatra::Application
 
   get '/' do
     name = params[:name] || settings.full_name
-    erb :index, :locals => {:fact => Facts.sample.gsub('$NAME', name)}
+    erb :index, :locals => {:fact => FACTS.sample.gsub('$NAME', name)}
   end
 
   get '/all' do
     headers \
-      "Content-Type" => "application/json"
-    Facts.to_json
+      'Content-Type' => 'application/json'
+    FACTS.to_json
   end
-
 end
-
