@@ -24,7 +24,6 @@ Facts = [
   'No kind of hat will fit $NAME.',
   'Ducks can\'t see $NAME.',
   '$NAME invented a new kind of electric motor that when combined with high capacity storage will deliver minimal message-oriented transport layers with encrypted high security decoupling and save the world.',
-  '$NAME is stupid, but don\'t say it too loud.',
   '$NAME sang the vocals in "The Great Gig In The Sky".',
   '$NAME can speak to cats.',
   '$NAME is not afraid of trains.',
