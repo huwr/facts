@@ -29,7 +29,7 @@ FACTS = [
   '$NAME can speak to cats.',
   '$NAME is not afraid of trains.',
   '$NAME has never met another person called $NAME.',
-  '$NAME can add up very large numbers while doing a guitar solo of \'Come all ye faithful\' with his teeth.',
+  '$NAME can add up very large numbers while doing a guitar solo of \'Come all ye faithful\' with $POSS teeth.',
   'After the tragic fire, I was so distraught with the loss of my manuscript that $NAME  stayed up all night to recompose it from the leftover sheets, even correcting the spelling and corrected a plot hole in the wedding scene.',
   '$NAME once trained a bear to whistle, but it escaped.  The bear was only found by following the trail of destruction and a faint, feeble tune.',
   '$NAME once recorded a session with Pink Floyd. The guitar solo was so blistering that Roger Waters immediately ceremoniously burnt the tapes.',
