@@ -3,4 +3,5 @@ configure do
   set :last_name, 'Freehouse'
 
   set :full_name, [settings.first_name, settings.last_name].join(' ')
+  set :gender, 'm'
 end
