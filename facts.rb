@@ -1,0 +1,22 @@
+Facts = [
+  '$NAME is, when angry, over 40 metres tall.',
+  '$NAME has quite an impressive collection of assorted cutlery, ranging back to the early Stuart period.',
+  'No bully has ever mananged to quite get to $NAME.',
+  '$NAME has on many occasions finished the entire meal, politely putting the knife and fork together before leaning back with a satisfied sigh.',
+  'The very utterance of $NAME\'s name will bring terror to the heart of anyone in the Royal Family.',
+  '$NAME once ran for president.',
+  'Dogs trust $NAME.',
+  '$NAME is prone to running around the house in a tiz at 4 AM.',
+  'A tiger once challanged $NAME to a duel and lost. They are now firm friends.',
+  'A whole class load of children once spotted $NAME riding a bicycle down the steepest hill in town.',
+  'A wizard once turned $NAME into a whale.',
+  '$NAME once made three beds for a new family of bears. One was firm, one was soft, and the last one was medium.',
+  'A new class of battleships has been named $NAME',
+  'Birds will not swoop $NAME. Instead, they drop small gifts. Anything bright will do: coloured beeds, insects, leaves, flowers, etc.',
+  '$NAME can immitate any species of bird known to mankind, and a great deal that are not.',
+  'It\'s hard not to like $NAME.',
+  '$NAME has only ever eaten three bowls of porridge. One was too hot, one was too cold, but the last one was just right.',
+  '$NAME once fought a website that was making stuff up.',
+  '$NAME is allergic to lies.',
+  '$NAME spends a lot of spare time knitting, but never does gloves (the thumbs are too difficult).'
+]
