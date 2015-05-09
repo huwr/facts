@@ -11,7 +11,7 @@ Routes
 
 Try these on:
 
- * ```/?name={person_of_interest}&gender={m|f}``` - get interesting and completely true fact about ```person_of_interest```. ```gender``` options are ```m``` for male, ```f``` for female.
+ * ```/?name={person_of_interest}&gender={m|f}``` - get interesting and completely true fact about ```person_of_interest```. ```gender``` options are ```m``` for male, ```f``` for female (default is male).
  * ```/all``` - get all facts in JSON
  * ```/test``` - not a lot. At least it responds.
 
