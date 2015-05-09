@@ -3,7 +3,7 @@ FACTS = [
   '$NAME has quite an impressive collection of assorted cutlery, ranging back to the early Stuart period.',
   'No bully has ever mananged to quite get to $NAME',
   '$SUBJ would never admit it, but $NAME is excellent at flute.',
-  '$NAME has on many occasions finished the entire meal, politely putting the knife and fork together before leaning back with a satisfied sigh.',
+  '$NAME has on many occasions finished the entire meal, politely putting $POSS knife and fork together before leaning back with a satisfied sigh.',
   'The very utterance of $NAME\'s name will bring terror to the heart of anyone in the Royal Family.',
   '$NAME once ran for president.',
   'Dogs trust $NAME.',
