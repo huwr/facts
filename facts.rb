@@ -33,5 +33,8 @@ FACTS = [
   'After the tragic fire, I was so distraught with the loss of my manuscript that $NAME  stayed up all night to recompose it from the leftover sheets, even correcting the spelling and corrected a plot hole in the wedding scene.',
   '$NAME once trained a bear to whistle, but it escaped.  The bear was only found by following the trail of destruction and a faint, feeble tune.',
   '$NAME once recorded a session with Pink Floyd. The guitar solo was so blistering that Roger Waters immediately ceremoniously burnt the tapes.',
+  'No wild animals are frightened of $NAME',
+  'There is no known virus that will give $NAME a runny nose',
+  '$NAME sometimes likes to go to the coast and enjoy a relaxing day in the sun but will never go into the water. No one knows why.',
   '$NAME spends a lot of spare time knitting, but never does gloves (the thumbs are too difficult).'
 ]
