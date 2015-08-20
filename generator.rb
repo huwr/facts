@@ -1,7 +1,7 @@
 class Generator
   @adjectives = ['happy', 'big', 'little', 'small', 'great', '']
-  @animals = %w[  dog walrus galah roo wombat koala mouse horse frog hare rabbit lizard  ]
-  @colours = ['red', 'black', 'purple', 'yellow', 'white', 'green', '']
+  @animals = %w[  dog walrus galah roo wombat koala mouse horse frog hare snake rabbit lizard parrot bird elephant quokka hippo possum emu pademelon ]
+  @colours = ['red', 'black', 'purple', 'yellow', 'white', 'green', 'grey', 'brown', 'golden', 'silver', '']
 
   def self.generate(n)
     names = []
