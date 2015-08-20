@@ -21,7 +21,6 @@ FACTS = [
   '$NAME is allergic to lies.',
   '$NAME has been known to speak many languages, including Russian, English and The Ancient Tongue of the Tulips',
   '$NAME has no known vulnerabilities.',
-  'It has been said that $NAME\'s face is the face that launched a thousand and one ships.',
   'No kind of hat will fit $NAME.',
   'Ducks can\'t see $NAME.',
   '$NAME invented a new kind of electric motor that when combined with high capacity storage will deliver minimal message-oriented transport layers with encrypted high security decoupling and save the world.',
