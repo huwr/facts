@@ -1,5 +1,6 @@
 require 'sinatra'
 require 'json'
+require_relative 'generator'
 require_relative 'facts'
 
 class FactApp < Sinatra::Application
@@ -21,6 +22,10 @@ class FactApp < Sinatra::Application
 
   def capitalise_first_letter!(sentence)
     sentence.sub!(/^(.)/) { Regexp.last_match[1].capitalize }
+  end
+
+  get '/names' do
+    erb :names, :locals => {:names => Generator.generate(400), :title => 'Names!'}
   end
 
   get '/test' do
